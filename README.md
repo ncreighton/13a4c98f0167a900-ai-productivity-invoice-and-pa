@@ -1,2 +1,25 @@
-# 13a4c98f0167a900-ai-productivity-invoice-and-pa
-Every AI power users and automation specialists needs this — most just don't know it yet.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Ai Productivity Invoice And Payment Workflow — fully configured and ready to use - Fully editable: all fields, co
+# Ai Productivity Invoice and Payment Workflow Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmeVdbHhe2M4pq6fycZD26)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmeVdbHhe2M4pq6fycZD26)
+
